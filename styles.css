@@ -97,6 +97,7 @@ HOMEPAGE TEXT CONTAINER
 .home-text-container {
     position: absolute;
     top: calc(25%); /* 50px is half of the h1 element's height */
+    left: calc(7%);
     text-align: left;
 }
 
